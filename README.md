@@ -1,1 +1,3 @@
 # Codeit-Sprint-teamproject4
+
+## 익명 투표 모바일 앱 데이터 분석과 번역 및 질문 추천 모델 개발
